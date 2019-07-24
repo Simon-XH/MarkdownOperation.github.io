@@ -19,8 +19,7 @@ asd`333333333333`ddda
 - asdddd  
 - asds333  
 插入图片  
-![figname](https://i0.hdslb.com/bfs/sycp/creative_img/201907/4861b83165789d39935a09a8f26a476e.jpg)  
-插入本地图片，采用相对路径  
-![loactionfig](./1.png)  
+![figname](https://i0.hdslb.com/bfs/sycp/creative_img/201907/4861b83165789d39935a09a8f26a476e.jpg)   
+![1525431631618.jpg](https://upload-images.jianshu.io/upload_images/18891803-7fbc25053afaa892.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)  
 插入网址  
 [bilibili](https://www.bilibili.com/)  
